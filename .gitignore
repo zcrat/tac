@@ -14,3 +14,7 @@ yarn-error.log
 ._*
 /storage
 /public
+id_rsa
+*.pem
+*.key
+.env
